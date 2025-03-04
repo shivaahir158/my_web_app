@@ -1,8 +1,3 @@
-My Web App 
-Overview
-This is a simple web application built using Python. It includes a basic setup with a Dockerfile for containerization and a requirements.txt for dependency management.
+**Overview**
 
-Features
-Python-based web application
-Containerized using Docker
-Easy dependency management with requirements.txt
+This is a simple Python-based web application that includes a Dockerfile for containerization and a requirements.txt for dependency management. The project is designed to be easily deployable and scalable, making it a great starting point for web development with Python.
